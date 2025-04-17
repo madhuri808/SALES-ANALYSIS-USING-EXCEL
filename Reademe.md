@@ -1,4 +1,4 @@
-**AtliQ-Sales-Analytics**
+#**AtliQ-Sales-Analytics**
 
 📌 Project Overview
 
