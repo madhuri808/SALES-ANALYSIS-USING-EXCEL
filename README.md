@@ -34,7 +34,7 @@ The project includes several key analyses to assess AtliQ’s sales performance
  ---
 ## 📊 Reports Included
 
-- [Customer Performance Report](Customer%20Performance%20Report.pdf)
+- [Customer Performance Report](Customer%20Performance%20Report.pdf)  
 - [Market Performance vs Target Report](Market%20Performance%20Vs%20Target%20Report.pdf)
 - [Profit and Loss Report](P%20%26%20L%20Report.pdf)
 - [Profit and Loss by Month](P%20%26%20L%20by%20month.pdf)
