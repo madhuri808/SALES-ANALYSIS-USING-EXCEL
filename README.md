@@ -30,7 +30,17 @@ Microsoft Excel – For data cleaning, analysis, and visualization.
 ---
 📌 Key Performance Analysis  
 
-The project includes several key analyses to assess AtliQ’s sales performance
+The project includes several key analyses to assess AtliQ’s sales performance  
+ ---
+## 📊 Reports Included
+
+- [Customer Performance Report](Customer%20Performance%20Report.pdf)
+- [Market Performance vs Target Report](Market%20Performance%20Vs%20Target%20Report.pdf)
+- [Profit and Loss Report](P%20%26%20L%20Report.pdf)
+- [Profit and Loss by Month](P%20%26%20L%20by%20month.pdf)
+- [Top 5 Products](Top%205%20Products.pdf)
+- [Top 5 Countries in 2021](Top%205%20country%202021.pdf)
+- [Top 10 Products (2021)](top%2010%20products%2021.pdf)
 
 
 
