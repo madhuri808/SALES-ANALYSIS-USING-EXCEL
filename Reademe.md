@@ -27,5 +27,13 @@ Leverage data for continuous business improvement.
 ⚒ Tools Used  
 
 Microsoft Excel – For data cleaning, analysis, and visualization.  
+---
+📌 Key Performance Analysis  
+
+The project includes several key analyses to assess AtliQ’s sales performance:  
+
+Customer Performance Report – Analyzing customer purchasing behavior and trends.  
+
+![WhatsApp Image 2025-05-04 at 20 43 04_d4c62352](https://github.com/user-attachments/assets/3f224e32-71a5-4949-a75d-3c4465ccef7c)
 
 
