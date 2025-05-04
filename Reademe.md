@@ -34,7 +34,10 @@ The project includes several key analyses to assess AtliQ’s sales performance:
 
 Customer Performance Report – Analyzing customer purchasing behavior and trends.  
 
-![WhatsApp Image 2025-05-04 at 20 43 04_d4c62352](https://github.com/user-attachments/assets/9e46f979-4815-4691-bdc8-7a1d87b443d5)
+![WhatsApp Image 2025-05-04 at 20 43 04_d4c62352](https://github.com/user-attachments/assets/9e46f979-4815-4691-bdc8-7a1d87b443d5)  
+---
+Market Performance vs. Target – Evaluating market trends against set targets.  
+
 
 
 
