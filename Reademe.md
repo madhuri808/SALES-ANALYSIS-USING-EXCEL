@@ -6,5 +6,26 @@ AtliQ Hardware is one of the fastest-growing companies in the electronic goods m
 
 This project focuses on analyzing sales data from AtliQ Hardware using Excel to generate valuable business insights.
 
-![WhatsApp Image 2025-05-04 at 20 38 39_8112b04b](https://github.com/user-attachments/assets/6f690703-0ba8-476e-b5da-dba9627237fc)
+---
+🎯 Objective  
+
+This project aims to:  
+
+Establish a dedicated data analytics team for strategic initiatives.  
+
+Utilize data analytics to gain deeper insights into market trends and customer preferences.  
+
+Bring transparency into the company’s data to enable accurate decision-making.  
+
+Analyze factors contributing to losses in Latin America.  
+
+Enhance global expansion strategies using data-driven approaches.  
+
+Leverage data for continuous business improvement.  
+
+---
+⚒ Tools Used  
+
+Microsoft Excel – For data cleaning, analysis, and visualization.  
+
 
